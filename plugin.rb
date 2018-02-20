@@ -1,4 +1,4 @@
-# name: Discourse ALLOWALL
+# name: Discourse ALLOWALL SCP
 # version: 1
 # authors: mkatrantzis
 
